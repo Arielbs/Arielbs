@@ -5,7 +5,7 @@ Scientist-in-Residence at Abiologics.
 Former Co-Founder & CTO of ZipBio.
 Former Baker Lab scientist, pioneering de novo protein materials design.
 
-My long standing vision to create the biology upper limit brain-computer interfaces by my vision for biology upper is the driving force to pioneer in domains at the intersection of de novo protein design, protein materials, AI, drug discovery, and molecular brain-computer interfaces.
+My long-standing vision is to build biology’s upper limit of brain-computer interfaces: molecular systems that connect living biology with modern computation. This vision drives my work at the intersection of de novo protein design, protein materials, AI, drug discovery, and molecular brain-computer interfaces.
 
 ## Current focus
 - molCore: AI-driven molecular engineering and protein design
