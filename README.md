@@ -8,9 +8,8 @@ Former Baker Lab scientist, pioneering de novo protein materials design.
 My long-standing vision is to build biology’s upper limit of brain-computer interfaces: molecular systems that connect living biology with modern computation. This vision drives my work at the intersection of de novo protein design, protein materials, AI, drug discovery, and molecular brain-computer interfaces.
 
 ## Current focus
-- molCore: AI-driven molecular engineering and protein design
-- Post-evolution biologics
-- Protein materials and biologically encoded synthetic systems
+- molCore: Post-evolution biologics drug discovery, AI-enabled ratioanlly-driven protein design.
+- Creating protein and protein materials that biology have not, or could not, create.
   
 ## Links
 - Website: https://www.molcore.bio
