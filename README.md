@@ -20,3 +20,4 @@ My long standing vision to create the biology upper limit brain-computer interfa
 
 ## In my free time
 - creating scientific visualization, e.g., my YouTube Channel: https://www.youtube.com/@proteinMaterials/videos
+- Yes, my profile avatar is my name encoded to a protein sequence.
