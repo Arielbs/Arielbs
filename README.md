@@ -9,6 +9,10 @@ Former Baker Lab scientist.
 
 My long-standing vision is to build biology’s upper limit of brain-computer interfaces: molecular systems that connect living biology with modern computation. This vision drives my work at the intersection of de novo protein design, protein materials, AI, drug discovery, and molecular brain-computer interfaces.
 
+[![Interactive Publications](https://img.shields.io/badge/%F0%9F%93%9A_Interactive_Publications-Explore_Live_%E2%86%92-2166AC?style=for-the-badge)](https://arielbs.github.io/BenSassonORCID/)
+
+*An interactive page of my publications — citation trends over time and a co-authorship network.*
+
 ## Current focus
 - molCore: Post-evolution biologics drug discovery, AI-enabled ratioanlly-driven protein design.
 - Creating protein and protein materials that biology have not, or could not, create.
