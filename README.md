@@ -1,9 +1,11 @@
 ## Hi there, I'm Ariel 👋
 
 Founder & CEO of molCore. 
+Engineer who created the first Vertical Organic FETs at the Technion and the macro-scale materials at the Baker Lab.
+Scientis who is driven by the vision of molecular resolution Brain-Computer-interfaces. 
 Scientist-in-Residence at Abiologics.  
 Former Co-Founder & CTO of ZipBio.
-Former Baker Lab scientist, pioneering de novo protein materials design.
+Former Baker Lab scientist.
 
 My long-standing vision is to build biology’s upper limit of brain-computer interfaces: molecular systems that connect living biology with modern computation. This vision drives my work at the intersection of de novo protein design, protein materials, AI, drug discovery, and molecular brain-computer interfaces.
 
@@ -19,4 +21,5 @@ My long-standing vision is to build biology’s upper limit of brain-computer in
 
 ## In my free time
 - creating scientific visualization, e.g., my YouTube Channel: https://www.youtube.com/@proteinMaterials/videos
-- Yes, my profile avatar is my name encoded to a protein sequence.
+- Yes, my profile avatar is just how my name as protein sequence fold.
+- 
