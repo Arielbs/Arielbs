@@ -14,8 +14,9 @@ My long-standing vision is to build biology’s upper limit of brain-computer in
 *An interactive page of my publications — citation trends over time and a co-authorship network.*
 
 ## Current focus
-- molCore: Post-evolution biologics drug discovery, AI-enabled ratioanlly-driven protein design.
-- Creating protein and protein materials that biology have not, or could not, create.
+- molCore: Immune Post-evolution biologics drug discovery, AI-enabled ratioanlly-driven protein design.
+- Building methods to create protein and protein materials that biology have not, or could not, create.
+- Protein Materials and Electro-Genetics
   
 ## Links
 - Website: https://www.molcore.bio
